@@ -8,8 +8,8 @@
 
 | Nombre completo | Correo | Documento |
 |----------------|--------|-----------|
-| Juan Esteban Cardozo Rivera | jua.cardozor@udea.edu.co | |
-| Joseph Roldan Ramirez | joseph.roldan@udea.edu.co | |
+| Juan Esteban Cardozo Rivera | juan.cardozor@udea.edu.co | 1036955040 |
+| Joseph Roldan Ramirez | joseph.roldan@udea.edu.co | 1115091119 |
 
 ---
 
