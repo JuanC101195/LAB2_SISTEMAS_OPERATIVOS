@@ -1,0 +1,14 @@
+total 48
+drwxrwxrwt 11 root   root   4096 Apr  6 14:36 .
+drwxr-xr-x 27 root   root   4096 Apr  6 14:27 ..
+drwxrwxrwx  2 root   root     60 Apr  6 14:27 .X11-unix
+drwx------  2 lenovo lenovo 4096 Apr  6 14:28 mcp-RERpz5
+-rw-r--r--  1 lenovo lenovo   71 Apr  6 14:27 remote-wsl-loc.txt
+drwx------  2 root   root   4096 Apr  6 14:27 snap-private-tmp
+drwx------  3 root   root   4096 Apr  6 14:28 systemd-private-41783712ecfc43c5945ca1c330ba2ad7-polkit.service-Xo51am
+drwx------  3 root   root   4096 Apr  6 14:27 systemd-private-41783712ecfc43c5945ca1c330ba2ad7-systemd-logind.service-W7bdiJ
+drwx------  3 root   root   4096 Apr  6 14:27 systemd-private-41783712ecfc43c5945ca1c330ba2ad7-systemd-resolved.service-K9OoDv
+drwx------  3 root   root   4096 Apr  6 14:27 systemd-private-41783712ecfc43c5945ca1c330ba2ad7-systemd-timesyncd.service-81ZzNZ
+drwx------  3 root   root   4096 Apr  6 14:27 systemd-private-41783712ecfc43c5945ca1c330ba2ad7-wsl-pro.service-vGiL9T
+-rw-------  1 lenovo lenovo 3375 Apr  6 14:27 vscode-distro-env.5W0RsT
+drwxr-xr-x  2 lenovo lenovo 4096 Apr  6 14:35 {8416A487-BA6E-4993-9275-50E200F4C823}
