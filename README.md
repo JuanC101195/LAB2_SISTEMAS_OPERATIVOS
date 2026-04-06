@@ -9,7 +9,7 @@
 | Nombre completo | Correo | Documento |
 |----------------|--------|-----------|
 | Juan Esteban Cardozo Rivera | jua.cardozor@udea.edu.co | |
-| ...            | @udea.edu.co | |
+| Joseph Roldan Ramirez | joseph.roldan@udea.edu.co | |
 
 ---
 
