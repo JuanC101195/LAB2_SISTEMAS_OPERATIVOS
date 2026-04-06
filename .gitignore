@@ -1,0 +1,17 @@
+# Binario compilado
+src/wish
+wish
+
+# Archivos de prueba generados
+*.txt
+*.out
+salida*
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de depuración
+*.o
+*.a
+core
