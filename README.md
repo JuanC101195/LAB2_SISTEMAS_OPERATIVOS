@@ -8,7 +8,7 @@
 
 | Nombre completo | Correo | Documento |
 |----------------|--------|-----------|
-| Juan C. ...    | @udea.edu.co | |
+| Juan Esteban Cardozo Rivera | @udea.edu.co | |
 | ...            | @udea.edu.co | |
 
 ---
